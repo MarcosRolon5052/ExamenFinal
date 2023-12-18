@@ -1,0 +1,38 @@
+/* Estilo del #topbar */
+#topbar {
+    background-color: #102c64;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000; /* Asegura que el topbar esté sobre el resto de los elementos */
+}
+
+/* Estilo del body */
+body {
+    padding-top: 56px; /* Ajusta según la altura de tu topbar */
+}
+body {
+    padding-top: 56px; /* Ajustar según la altura de la barra de navegación */
+}
+
+/* Personalizar el fondo y el color del texto de la barra de navegación */
+.navbar {
+    background-color: #102c64; 
+    position: fixed;
+    top: 20px; /* Ajusta según la altura de tu topbar */
+    left: 0;
+    right: 0;
+    z-index: 900; /* Z-index inferior al topbar para que el topbar esté sobre la barra de navegación */
+}
+
+/* Cambiar el color del texto de los enlaces de navegación */
+.navbar-nav .nav-link {
+    color: #ECF0F1;
+}
+
+/* Cambiar el color del texto del enlace activo */
+.navbar-nav .nav-item.active .nav-link {
+    color: #E74C3C;
+}

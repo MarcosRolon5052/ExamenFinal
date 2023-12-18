@@ -1,0 +1,9 @@
+<script src="/sistemagym/assets/js/bootstrap.bundle.min.js"></script>
+<script src="/sistemagym/assets/js/jquery.min.js"></script>
+<script src="/sistemagym/assets/js/sweetalert2.all.min.js"></script>
+<script src="/sistemagym/assets/js/datatables.min.js"></script>
+<script src="/sistemagym/assets/js/print.window.js"></script>
+<script src="/sistemagym/assets/js/validate.js"></script>
+<script src="/sistemagym/assets/js/login.js"></script>
+<script src="/sistemagym/assets/js/pagosMembresia.js"></script>
+<script src="/sistemagym/assets/js/comportamientosGenerales.js"></script>
